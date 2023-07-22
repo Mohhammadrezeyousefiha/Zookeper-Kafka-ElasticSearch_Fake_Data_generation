@@ -5,9 +5,9 @@
 - Putting data from kafka topic into elastic search (still not working properly I suppose!) 
 - Created a producer and consumer in python language
 
-### Installation
+### prerequisites 
 
-Install docker and docker-compose from official docker website and run the below commands
+Docker and docker-compose must be on your machine
 
 #### It will pull the official kafka and zookeeper and elastic search docker images and run it inside the kafka-network
 
