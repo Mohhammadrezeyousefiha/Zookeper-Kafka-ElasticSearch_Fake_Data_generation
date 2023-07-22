@@ -1,4 +1,4 @@
-# Kafka Producer and Consumer using docker and docker-compose example
+# Writing fake data to kafka topic and reading and writing it again on elastic search
 
 - Running the kafka and zookeeper on the docker container
 - Generating fake data and writing it on a kafka topic
